@@ -1,0 +1,10 @@
+Package: buildgraphs
+Type: Package
+Title: Creates graphs for numerical and categorical variables
+Version: 0.1.0
+Author: Deepshikha Sharma
+Maintainer: Deepshikha <deepshikhabsharma@gmail.com>
+Description: Accepts the numerical and categorical variables from the dataset and provides appropriate graphs for each
+License: GPL-3
+Encoding: UTF-8
+LazyData: FLASE
