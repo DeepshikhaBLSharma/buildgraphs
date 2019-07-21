@@ -8,7 +8,7 @@
    }
    if(is.null(dir))  ## checks if the argument dir is null
    {
-     setwd("C:\\Users\\hi\\Desktop\\R") ## if yes,will set dir as assign our interested directory 
+     setwd("C:\\Users\\hi\\Desktop\\buildgraphs") ## if yes,will set dir as assign our interested directory 
    }
    for(i in vari)  ## iteration starts from first variable and goes till last variable
    {
